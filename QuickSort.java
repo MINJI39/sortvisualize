@@ -12,7 +12,6 @@ import java.awt.MediaTracker;
 import java.awt.Toolkit;
 import java.io.FileOutputStream;
 import java.io.IOException;
-
 import javax.swing.JPanel;
 
 public class QuickSort extends JPanel {

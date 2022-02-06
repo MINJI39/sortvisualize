@@ -1,4 +1,4 @@
-/* COPYING/LICENSEReference : https://github.com/vbohush/SortingAlgorithmAnimations
+/* Reference : https://github.com/vbohush/SortingAlgorithmAnimations
 작성자 : 김민지
 프로그램의 화면을 보여주는 클래스
 코드 마지막 작성날짜 : 2021년 05월 31일
@@ -6,22 +6,16 @@
 
 import javax.swing.*;
 import java.awt.Color;
-
 import java.awt.Container;
 import java.awt.Dimension;
-
 import java.awt.Toolkit;
 import java.awt.event.*;
 import java.io.BufferedReader;
-
 import java.io.File;
-
 import java.io.FileOutputStream;
 import java.io.FileReader;
-
 import java.io.IOException;
 import java.util.Random;
-
 import javax.swing.filechooser.FileNameExtensionFilter;
 
 public class Main extends JFrame {
